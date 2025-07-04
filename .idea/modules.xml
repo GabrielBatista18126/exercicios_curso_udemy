@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercicio_estrtura_repetitiva/exercicio_estrtura_repetitiva.iml" filepath="$PROJECT_DIR$/exercicio_estrtura_repetitiva/exercicio_estrtura_repetitiva.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercicios_curso_udemy.iml" filepath="$PROJECT_DIR$/.idea/exercicios_curso_udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_poo/exercicios_poo.iml" filepath="$PROJECT_DIR$/exercicios_poo/exercicios_poo.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_sobre_estrutura_condicional/exercicios_sobre_estrutura_condicional.iml" filepath="$PROJECT_DIR$/exercicios_sobre_estrutura_condicional/exercicios_sobre_estrutura_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_sobre_estrutura_repetitiva_for/exercicios_sobre_estrutura_repetitiva_for.iml" filepath="$PROJECT_DIR$/exercicios_sobre_estrutura_repetitiva_for/exercicios_sobre_estrutura_repetitiva_for.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_sobre_estrutura_sequencial/exercicios_sobre_estrutura_sequencial.iml" filepath="$PROJECT_DIR$/exercicios_sobre_estrutura_sequencial/exercicios_sobre_estrutura_sequencial.iml" />
     </modules>
   </component>
